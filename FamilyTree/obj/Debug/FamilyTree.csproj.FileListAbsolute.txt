@@ -3,3 +3,8 @@ C:\Users\alexs_000\workspaces\back-end\misc\nathan-code-challenges-makeProject\F
 C:\Users\alexs_000\workspaces\back-end\misc\nathan-code-challenges-makeProject\FamilyTree\FamilyTree\bin\Debug\FamilyTree.pdb
 C:\Users\alexs_000\workspaces\back-end\misc\nathan-code-challenges-makeProject\FamilyTree\FamilyTree\obj\Debug\FamilyTree.exe
 C:\Users\alexs_000\workspaces\back-end\misc\nathan-code-challenges-makeProject\FamilyTree\FamilyTree\obj\Debug\FamilyTree.pdb
+C:\Users\asaber.BUMCDOMAIN\workspace\back-end\misc\Family-Tree\FamilyTree\bin\Debug\FamilyTree.exe.config
+C:\Users\asaber.BUMCDOMAIN\workspace\back-end\misc\Family-Tree\FamilyTree\bin\Debug\FamilyTree.exe
+C:\Users\asaber.BUMCDOMAIN\workspace\back-end\misc\Family-Tree\FamilyTree\bin\Debug\FamilyTree.pdb
+C:\Users\asaber.BUMCDOMAIN\workspace\back-end\misc\Family-Tree\FamilyTree\obj\Debug\FamilyTree.exe
+C:\Users\asaber.BUMCDOMAIN\workspace\back-end\misc\Family-Tree\FamilyTree\obj\Debug\FamilyTree.pdb
