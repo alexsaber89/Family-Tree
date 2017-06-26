@@ -1,0 +1,5 @@
+C:\Users\alexs_000\workspaces\back-end\misc\nathan-code-challenges-makeProject\FamilyTree\FamilyTree\bin\Debug\FamilyTree.exe.config
+C:\Users\alexs_000\workspaces\back-end\misc\nathan-code-challenges-makeProject\FamilyTree\FamilyTree\bin\Debug\FamilyTree.exe
+C:\Users\alexs_000\workspaces\back-end\misc\nathan-code-challenges-makeProject\FamilyTree\FamilyTree\bin\Debug\FamilyTree.pdb
+C:\Users\alexs_000\workspaces\back-end\misc\nathan-code-challenges-makeProject\FamilyTree\FamilyTree\obj\Debug\FamilyTree.exe
+C:\Users\alexs_000\workspaces\back-end\misc\nathan-code-challenges-makeProject\FamilyTree\FamilyTree\obj\Debug\FamilyTree.pdb
