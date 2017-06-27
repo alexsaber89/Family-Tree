@@ -9,7 +9,7 @@ Given the following example family
 				Ted
 				 /\
 				/  \
-			     Jim  Sally
+			    Sally   Jim
 			     /      /\
 			    /      /  \
 		          Bob    Joe  George
